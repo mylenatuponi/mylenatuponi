@@ -1,61 +1,123 @@
-# 👋 Olá! Eu sou a Mylena Tuponi
-# 👋 Hi there! I'm Mylena Tuponi
+# 👋 Hello! / Olá!
 
-🎓 MBA em Gestão de Projetos | 📊 Cursando Ciência de Dados  
-🎓 MBA in Project Management | 📊 Data Science Student  
-📍 Paranaense, apaixonada por dados, problemas desafiadores e boas histórias.  
-📍 From Paraná, Brazil — passionate about data, problem-solving, and storytelling.
+Seja bem-vindo(a) ao meu perfil no GitHub!  
+Welcome to my GitHub profile!
+
+Aqui você encontrará um pouco sobre mim, minha trajetória e os projetos que venho desenvolvendo na área de dados.  
+Here you’ll find a bit about me, my background and the data projects I’ve been working on.
+
+---
+
+## 🗂 Índice | Index
+
+📌 [Português 🇧🇷](#-sobre-mim)  
+📌 [English 🇺🇸](#-about-me)
 
 ---
 
 ## 🇧🇷 Sobre mim
-Tenho 28 anos e sou movida por desafios. Acredito no poder dos dados para transformar ideias em ações. Meus dois grandes amores são Amanda (minha futura esposa ❤️) e Pandora, a dog mais linda do mundo. 🐶
 
-## 🇺🇸 About Me
-I'm 28 years old and driven by challenges. I believe in the power of data to drive impact. My two great loves are Amanda (my future wife ❤️) and Pandora, the cutest dog in the world. 🐶
+Olá! Meu nome é **Mylena Tuponi**, tenho 28 anos, sou natural do Paraná e apaixonada por dados. Tenho MBA em Gestão de Projetos e atualmente curso Ciência de Dados.
 
----
+Sou movida por desafios e adoro resolver problemas com uma boa pitada de análise, organização e curiosidade. Acredito que os dados contam histórias — e eu adoro contá-las com dashboards, gráficos e insights estratégicos.
 
-## 🚀 Áreas de Interesse | Areas of Interest
+Atuo com ferramentas como Power BI, SQL, Python, Excel, Looker Studio e BigQuery, e me interesso por áreas como:
 
-- Business Intelligence (BI)  
-- Análise de Dados | Data Analysis  
-- Engenharia de Dados | Data Engineering  
+- Business Intelligence  
+- Análise de Dados  
+- Engenharia de Dados  
 - People Analytics
 
+No mais, sou uma pessoa que ama aprender, gosta de deixar tudo bem estruturado e valoriza comunicação clara e objetiva.
+
+💖 E falando em amor... os dois grandes amores da minha vida são:
+- **Amanda** (minha futura esposa, esperando ela parar de me enrolar 😅)
+- **Pandora**, a dog mais linda desse mundo 🐶
+
 ---
 
-## 🛠️ Habilidades Técnicas | Technical Skills
+### 🛠️ Habilidades Técnicas
 
 - Power BI  
 - SQL  
-- Python (Pandas, NumPy)  
-- Excel Avançado | Advanced Excel  
+- Python (Pandas, NumPy, automações)  
+- Excel Avançado  
 - Looker Studio  
 - Google BigQuery
 
 ---
 
-## 📚 Formação | Education
+### 📚 Formação
 
 - MBA em Gestão de Projetos  
+- Cursando Ciência de Dados
+
+---
+
+### 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mylena%20Tuponi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mylenatuponi)  
+✉️ **Email:** mylenatuponi@hotmail.com
+
+---
+
+### ✨ Extras
+
+- Amo aprender algo novo  
+- Gosto de organização e detalhes  
+- Acredito que dados bem trabalhados geram mudanças reais
+
+---
+
+## 🇺🇸 About Me
+
+Hi! My name is **Mylena Tuponi**, I’m 28 years old, born in Paraná (Brazil), and passionate about data. I have an MBA in Project Management and I’m currently studying Data Science.
+
+I'm driven by challenges and love solving problems through analysis, structure, and curiosity. I believe data tells stories — and I love telling them through dashboards, visualizations, and strategic insights.
+
+I'm skilled in tools like Power BI, SQL, Python, Excel, Looker Studio, and BigQuery, and I'm especially interested in:
+
+- Business Intelligence  
+- Data Analysis  
+- Data Engineering  
+- People Analytics
+
+Also, I love learning new things, organizing complex info, and communicating clearly and effectively.
+
+💖 And speaking of love... the two big loves of my life are:
+- **Amanda** (my future wife — just waiting for her to stop stalling 😅)
+- **Pandora**, the cutest dog in the world 🐶
+
+---
+
+### 🛠️ Technical Skills
+
+- Power BI  
+- SQL  
+- Python (Pandas, NumPy, automation)  
+- Advanced Excel  
+- Looker Studio  
+- Google BigQuery
+
+---
+
+### 📚 Education
+
+- MBA in Project Management  
 - Currently studying Data Science
 
 ---
 
-## 🌐 Contato | Contact
+### 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mylena%20Tuponi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mylenatuponi)  
-✉️ mylenatuponi@hotmail.com
+✉️ **Email:** mylenatuponi@hotmail.com
 
 ---
 
-## ✨ Extras | Fun Facts
+### ✨ Fun Facts
 
-- Amo aprender algo novo | Always eager to learn  
-- Gosto de organização e detalhes | Detail-oriented and organized  
-- Acredito que dados contam histórias incríveis | Great data tells great stories
-
----
-
+- Always eager to learn  
+- Detail-oriented and organized  
+- I believe great data can drive real change
 
